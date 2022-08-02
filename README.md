@@ -1,2 +1,2 @@
 # project_1_presentation
-Holder for final presentation
+In this repository, you'll find the final group presentation.
