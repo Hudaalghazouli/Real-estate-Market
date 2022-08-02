@@ -20,7 +20,7 @@
 
 In our latest "Ask the Data Experts" blog, we received the following question from Paul, who just got kicked out of his parent's house in Decatur, Georgia:
 
-> "Having spent many years with my parents, they finally decided to kick me out! :worried: But where do I go now? Do I stay in Georgia or move to another State? Should I look for a studio or a 1 bedroom apartment? Would you all be able to use data to help me with some recommendations?" - Paul (29 years old)
+> "Having spent many years with my parents, they finally decided to kick me out! :worried: But where do I go now? Do I stay in Georgia or move to another State? If I live alone, should I look for a studio or a 1 bedroom apartment? Should I get roommates? Would you all be able to use data to help me with some recommendations?" - Paul (29 years old)
 
 When digging further into Paul's preferences, he mentioned the following:
 - Affordability is important.
