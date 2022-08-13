@@ -6,7 +6,7 @@
 
 
 ## Table of Contents
-
+ 
 * [Background Story](#background-story)
 * [Data Team](#data-team)
 * [Inital Data Exploration & Gathering](#initial-data-exploration-and-data-gathering)
