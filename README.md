@@ -45,7 +45,6 @@ To help answer Paul's question, we've assembled a team of 9 of our best data exp
 - Sheyla Perez Nazco
 
 
-
 ## Initial Data Exploration and Data Gathering: 
 
 Our initial data exploration phase started by exploring some of the data sets available on the United States' Office of Policy Development and Research [website](https://www.huduser.gov/portal/about/mission_and_background.html). 
