@@ -53,7 +53,6 @@ In this website, we were able to find the following [data sets](https://www.hudu
 Since we wanted to give Paul the most up to date information, we focused on 2020-2022 data. We saved the different csv files (2020, 2021, 2022) in the following [folder](/Consolidated_new/UTF/). 
 
 
-
 ## Analysis
 
 ## Setting Up the Data
@@ -68,7 +67,6 @@ We were then able to merge the 3 CSVs files into one DataFrame by merging 2020 w
 - `rent_20_21_22 = pd.merge(rent_20_21, rents_2022, how="left", on=["state", "county", "cousub"])`
 
 We also loaded the following [file](/Consolidated_new/Other_Files/rent.csv), which contains the same data but formatted in a different way. We converted this DataFrame into a new summary DF (rent_summary_sy), which groups the average rents by state and year. This will be used later in the analysis to calculate the YoY % change in rent.
-
 
 
 ## Data Cleaning
