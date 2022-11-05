@@ -31,7 +31,6 @@ When digging further into Paul's preferences, he mentioned the following:
 - Paul is a homebody - but he wants to make sure there's things to do whenever he feels like getting out of the house! 
 
 
-
 ## Data Team: 
 
 To help answer Paul's question, we've assembled a team of 9 of our best data experts:
