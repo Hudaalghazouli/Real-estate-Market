@@ -99,7 +99,6 @@ Our new cleaned DataFrame was exported into a csv [file](/Consolidated_new/Merge
 - `cleaned_rent_20_21_22.to_csv("Merged_Data/rent20-22.csv")`
 
 
-
 ## **Question 1)** If Paul decides to live alone, should he go for a studio or a one bedroom apartment?
 
 The first question that we wanted to help Paul with was whether he should go for a studio or one bedroom apartment. We know that affordability is important to Paul, but he also wants to live comfortable, is it worth it to get a one bedroom apartment?
@@ -151,7 +150,6 @@ Since we want to ensure that Paul moves to an affordable state, we analyzed how 
     slower pace than many other states. 
 
 
-
 ## **Question 5)** What are the top 5 most expensive states by rent price? What are the top 5 least expensive states by rent price? 
 
 While YoY changes in rent prices are important, we also checked which states were the most and least affordable. We created an average rent for all of the different bedroom types and figured out the 5 most expensive and 5 least expensive states (using groupby functions).  
@@ -179,9 +177,7 @@ Top 5 Most Affordable States Plotted on Heatmap:
 ![image](/Consolidated_new/Screenshots/Screenshot%208.png)
 
 
-
 ### **Second Recommendation**: After following up with Paul and enlightening him about Georgia's rent prices not being in the top 5 states. We suggested that he stay in Georgia. He took our recommendation and decided to stay close to his family and friends in GA.
-
 
 
 ## **Question 6)** Within Georgia, what are the rent prices of 1 bedrooms for each of the different counties? 
@@ -201,7 +197,6 @@ Median 1 Bedroom Rent for the Last 56 Counties (Montgomery to Worth County):
 ![image](/Consolidated_new/Screenshots/Screenshot%2011.png)
 
 Based on the bar charts above, there are some counties that may not be suitable for Paul (e.g. Fulton) as they have a high median rent price for 1 bedrooms.
-
 
 
 ## **Question 7)** What is the correlation between population and rent prices in Georgia counties? 
@@ -228,7 +223,6 @@ With the lat and lng information, we created a HeatMap based on the population o
     exception of Savannah, it looks like the most populated counties are the ones closest to the city of Atlanta. We know 
     that there is a positive correlation between population and rent price. Is there also a correlation between distance 
     from the center of Atlanta and rent price?
-
 
 
 ## **Question 8)** What is the correlation between distance from the center of Atlanta and rent prices? 
@@ -263,7 +257,6 @@ We also created bins based on the distance from Atlanta to show some other visua
     bedroom types (not just one bedrooms!)
 
 
-
 ## **Question 9)**  Is there a correlation between crime rate and distance from Atlanta?
 
 To answer this question, we loaded a csv [file](/Consolidated_new/Other_Files/Crime_data_per_county.csv) that contains the crime rates (per 1,000) for each of the GA counties and merged it with our GA counties DataFrame. 
@@ -287,7 +280,6 @@ Then, we created a scatter plot with a linear regression line showing the correl
 These counties were selected because they are close to major cities (Savannah, Atlanta, Augusta), but are not in the heart of Atlanta (Fulton County), which might be more expensive based on our findings. 
 
 
-
 ## **Question 10)** What are the crime rates for each of the different GA counties that Paul is interested in? 
 
 Below is a DF with the crime rates for each of the 5 counties:
@@ -306,13 +298,11 @@ Below is a heatmap with markers for each of the leasing offices that we located:
 ![image](/Consolidated_new/Screenshots/Screenshot%2020.png)
 
 
-
 ## Conclusion
 
 From the data collected, cleaned, merged and calculated based on States, counties, distance, crime rates and rents, we conclude that the best place for Paul to live in and move to is **Columbia County**. The rent for 1 bedroom apartment is affordable as compared to the other counties and it is the safest place to live in as compared to the other counties that Paul selected. 
  
 Columbia county has a lot of things to do outdoors like rock climbing, kayaking, water sports, golf, horseback riding and many parks for hiking. It is close to Augusta too which would be a nice weekend trip for Paul to enjoy. 
-
 
 
 ## References
