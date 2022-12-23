@@ -4,6 +4,7 @@
 ### Final presentation is located in the [Presentation folder](/Presentation).
 ### All of our different draft materials are located in this [repository](https://github.com/Boot-Team-7/project_1_materials).
 
+
 ## Table of Contents
  
 * [Background Story](#background-story)
