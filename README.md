@@ -14,6 +14,7 @@
 * [Conclusion](#conclusion)
 * [Reference](#references) 
 
+
 ## Background Story:  
 
 In our latest "Ask the Data Experts" blog, we received the following question from Paul, who just got kicked out of his parent's house in Decatur, Georgia:
