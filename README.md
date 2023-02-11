@@ -3,7 +3,6 @@
 ### Final materials are located in the [Consolidated_new folder](/Consolidated_new).
 ### Final presentation is located in the [Presentation folder](/Presentation).
 ### All of our different draft materials are located in this [repository](https://github.com/Boot-Team-7/project_1_materials).
-asdf
 
 ## Table of Contents
  
