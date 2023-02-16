@@ -5,7 +5,7 @@
 ### All of our different draft materials are located in this [repository](https://github.com/Boot-Team-7/project_1_materials).
 
 ## Table of Contents
- dfg
+ d
 * [Background Story](#background-story)
 * [Data Team](#data-team)
 * [Inital Data Exploration & Gathering](#initial-data-exploration-and-data-gathering)
